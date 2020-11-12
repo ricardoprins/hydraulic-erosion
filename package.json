@@ -1,0 +1,22 @@
+{
+  "name": "hydraulic-erosion",
+  "version": "1.0.0",
+  "description": "Hydraulic Erosion Simulator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoprins/hydraulic-erosion.git"
+  },
+  "author": "Ricardo Prins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardoprins/hydraulic-erosion/issues"
+  },
+  "homepage": "https://github.com/ricardoprins/hydraulic-erosion#readme",
+  "dependencies": {
+    "firebase-tools": "^8.16.1"
+  }
+}
